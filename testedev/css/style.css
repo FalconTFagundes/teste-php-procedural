@@ -1,0 +1,11 @@
+   /* removendo box-shadow dos input's */
+   input,
+   textarea,
+   select {
+       box-shadow: none !important;
+       border: 1px solid black !important;
+   }
+
+   .btn-close{
+    box-shadow: none !important;
+   }
